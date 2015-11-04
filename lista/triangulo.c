@@ -23,7 +23,7 @@ int main()
         
         if ( (lado1 == lado2) && (lado2 == lado3) )
         {
-            printf("\n Triangulo equilatero\n");
+            printf("\n Trriangulo equilatero\n");
         }else if ( (lado1 == lado2) || ( lado1 == lado3 ) ||
                     ( lado2 == lado3 ))
         {
